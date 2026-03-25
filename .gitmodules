@@ -1,0 +1,21 @@
+[submodule "power_bi_analyst"]
+	path = power_bi_analyst
+	url = https://github.com/julianazanelatto/power_bi_analyst.git
+[submodule "evolution-api"]
+	path = evolution-api
+	url = https://github.com/EvolutionAPI/evolution-api.git
+[submodule "dio-lab-open-source"]
+	path = dio-lab-open-source
+	url = https://github.com/digitalinnovationone/dio-lab-open-source.git
+[submodule "BootcampSantander"]
+	path = BootcampSantander
+	url = https://github.com/Yuri-Fernando/BootcampSantander.git
+[submodule "Case-Embarcados"]
+	path = Case-Embarcados
+	url = https://github.com/Yuri-Fernando/Case-Embarcados.git
+[submodule "DDuas"]
+	path = DDuas
+	url = https://github.com/Yuri-Fernando/DDuas.git
+[submodule "saas-atendimento-frame"]
+	path = saas-atendimento-frame
+	url = https://github.com/Yuri-Fernando/saas-atendimento-frame.git
