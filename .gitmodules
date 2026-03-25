@@ -19,3 +19,9 @@
 [submodule "saas-atendimento-frame"]
 	path = saas-atendimento-frame
 	url = https://github.com/Dubbern/saas-atendimento-frame.git
+[submodule "JhonesAI_Ecosystem"]
+	path = JhonesAI_Ecosystem
+	url = https://github.com/Dubbern/JhonesAI_Ecosystem.git
+[submodule "Jarvis"]
+	path = Jarvis
+	url = https://github.com/Dubbern/Jarvis.git
