@@ -9,13 +9,13 @@
 	url = https://github.com/digitalinnovationone/dio-lab-open-source.git
 [submodule "BootcampSantander"]
 	path = BootcampSantander
-	url = https://github.com/Yuri-Fernando/BootcampSantander.git
+	url = https://github.com/Dubbern/BootcampSantander.git
 [submodule "Case-Embarcados"]
 	path = Case-Embarcados
-	url = https://github.com/Yuri-Fernando/Case-Embarcados.git
+	url = https://github.com/Dubbern/Case-Embarcados.git
 [submodule "DDuas"]
 	path = DDuas
-	url = https://github.com/Yuri-Fernando/DDuas.git
+	url = https://github.com/Dubbern/DDuas.git
 [submodule "saas-atendimento-frame"]
 	path = saas-atendimento-frame
-	url = https://github.com/Yuri-Fernando/saas-atendimento-frame.git
+	url = https://github.com/Dubbern/saas-atendimento-frame.git
