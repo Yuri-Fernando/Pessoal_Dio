@@ -28,3 +28,9 @@
 [submodule "ConectaAI"]
 	path = ConectaAI
 	url = https://github.com/Dubbern/ConectaAI.git
+[submodule "ocr"]
+	path = ocr
+	url = https://github.com/Dubbern/OCR.git
+[submodule "projetos_pequenos"]
+	path = projetos_pequenos
+	url = https://github.com/Dubbern/Projetos_Pequenos.git
